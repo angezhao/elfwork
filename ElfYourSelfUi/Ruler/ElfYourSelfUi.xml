@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfGuidesProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GuidesProject>
+    <Project>ElfYourSelfUi_1</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>ElfYourSelfUi_2</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>ElfYourSelfUi_3</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>ElfYourSelfUi_4</Project>
+    <GuidesList />
+  </GuidesProject>
+  <GuidesProject>
+    <Project>ElfYourSelfUi_5</Project>
+    <GuidesList />
+  </GuidesProject>
+</ArrayOfGuidesProject>

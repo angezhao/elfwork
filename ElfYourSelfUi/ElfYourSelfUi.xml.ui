@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectDir>E:\cocos\ccs_projects\ElfYourSelfUi</ProjectDir>
+  <Version>1.4.0.1</Version>
+  <Resources>E:\cocos\ccs_projects\ElfYourSelfUi\Resources</Resources>
+  <Name>ElfYourSelfUi</Name>
+  <JsonFileName>ElfYourSelfUi.json</JsonFileName>
+  <JsonFolder>E:\cocos\ccs_projects\ElfYourSelfUi\Json</JsonFolder>
+  <JsonList>
+    <string>ElfYourSelfUi_1.json</string>
+    <string>ElfYourSelfUi_2.json</string>
+    <string>ElfYourSelfUi_3.json</string>
+    <string>ElfYourSelfUi_4.json</string>
+    <string>ElfYourSelfUi_5.json</string>
+  </JsonList>
+  <CanvasSize>
+    <Width>960</Width>
+    <Height>640</Height>
+  </CanvasSize>
+  <filePath>E:\cocos\ccs_projects\ElfYourSelfUi\ElfYourSelfUi.xml.ui</filePath>
+  <ProjectType>UIProject</ProjectType>
+  <ResRelativePath />
+  <imageFileList>
+    <string>ElfYourSelfUi0.plist</string>
+  </imageFileList>
+  <imagePngList>
+    <string>ElfYourSelfUi0.png</string>
+    <string>ElfYourSelfUi0.png</string>
+    <string>ElfYourSelfUi0.png</string>
+    <string>ElfYourSelfUi0.png</string>
+    <string>ElfYourSelfUi0.png</string>
+  </imagePngList>
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>ElfYourSelfUi_1.json</CurrentUIJson>
+</UIProject>
