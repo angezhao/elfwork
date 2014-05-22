@@ -22,9 +22,14 @@
   <ResRelativePath />
   <imageFileList>
     <string>ElfYourSelfUi0.plist</string>
-    <string>ElfYourSelfUi1.plist</string>
   </imageFileList>
-  <imagePngList />
+  <imagePngList>
+    <string>ElfYourSelfUi0.png</string>
+    <string>ElfYourSelfUi0.png</string>
+    <string>ElfYourSelfUi0.png</string>
+    <string>ElfYourSelfUi0.png</string>
+    <string>ElfYourSelfUi0.png</string>
+  </imagePngList>
   <JsonSuffix>.json</JsonSuffix>
   <CurrentUIJson>ElfYourSelfUi_1.json</CurrentUIJson>
 </UIProject>
